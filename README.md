@@ -1,4 +1,4 @@
-<img width="1144" height="576" alt="image" src="https://github.com/user-attachments/assets/9629db52-c3ba-4470-9c4f-ba15b91bcbf8" /># Домашнее задание к занятию «ELK» - Солдатов Дмитрий
+# Домашнее задание к занятию «ELK» - Солдатов Дмитрий
 
 ## Задание 1. Elasticsearch
 
