@@ -21,7 +21,7 @@ services:
 
 Скриншот выполнения команды `curl -X GET 'localhost:9200/_cluster/health?pretty'`, где виден нестандартный `cluster_name`:
 
-![Скриншот Elasticsearch](img/task1.png)
+
 
 ---
 
@@ -34,7 +34,7 @@ Kibana была запущена в Docker. В интерфейсе Dev Tools в
 
 Скриншот интерфейса Kibana на странице `http://<ip сервера>:5601/app/dev_tools#/console` с выполненным запросом `GET /_cluster/health?pretty`:
 
-![Скриншот Kibana](img/task2.png)
+
 
 ---
 
@@ -62,7 +62,7 @@ output {
 
 Скриншот интерфейса Kibana, на котором видны логи Nginx, собранные через Logstash:
 
-![Скриншот Logs Logstash](img/task3.png)
+
 
 ---
 
